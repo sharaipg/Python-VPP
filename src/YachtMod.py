@@ -47,7 +47,7 @@ class Appendage(object):
 
     def _print(self):
         print("Chord root : ", self.cu)
-        print("Chord tip : ", self.cu)
+        print("Chord tip : ", self.cl)
         print("Chord avrg : ", self.chord)
         print("Span : ", self.span)
         print("WSA : ", self.wsa)
